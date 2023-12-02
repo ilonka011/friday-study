@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/friday-study/static/css/main.679ea1a5.css",
+    "main.js": "/github.io/friday-study/static/js/main.4ef569b6.js",
+    "static/js/787.0068e801.chunk.js": "/github.io/friday-study/static/js/787.0068e801.chunk.js",
+    "index.html": "/github.io/friday-study/index.html",
+    "main.679ea1a5.css.map": "/github.io/friday-study/static/css/main.679ea1a5.css.map",
+    "main.4ef569b6.js.map": "/github.io/friday-study/static/js/main.4ef569b6.js.map",
+    "787.0068e801.chunk.js.map": "/github.io/friday-study/static/js/787.0068e801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679ea1a5.css",
+    "static/js/main.4ef569b6.js"
+  ]
+}
